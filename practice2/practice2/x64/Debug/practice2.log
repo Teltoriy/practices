@@ -1,0 +1,14 @@
+﻿  Circle.cpp
+Z:\sourse\practice2\practice2\Circle.cpp(17,23): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+Z:\sourse\practice2\practice2\Circle.cpp(36,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Figure.cpp
+Z:\sourse\practice2\practice2\Figure.cpp(15,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\sourse\practice2\practice2\Figure.cpp(16,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\sourse\practice2\practice2\Figure.cpp(17,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\sourse\practice2\practice2\Figure.cpp(18,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\sourse\practice2\practice2\Figure.cpp(35,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+Z:\sourse\practice2\practice2\Figure.cpp(36,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  Triangle.cpp
+  Создание кода...
+  practice2.vcxproj -> Z:\sourse\practice2\x64\Debug\practice2.exe
